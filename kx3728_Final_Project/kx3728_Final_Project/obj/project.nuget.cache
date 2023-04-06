@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vG2pNpT5VcEQ+/U+XCw5kTPnfZ5aTbJ/aKKTnjM02t+3c2WjQyu9sterKe9PNKNP+t9+nr7YEAyqGOx1kH+SIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew\\Desktop\\School Stuff\\Everything from other drive\\Year 4 (2019-2020)\\Semester 3\\Programming Language Concepts\\kx3728_Final_Project\\kx3728_Final_Project\\kx3728_Final_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Matthew\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
